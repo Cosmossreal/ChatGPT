@@ -52,7 +52,8 @@
       sudo yarn install --network-concurrency 1
       ```
   
-   5. Start bot
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=Start+bot)](https://git.io/typing-svg)
+
       ```
       sudo yarn global add pm2 && pm2 start index.js --name ChatGPT && pm2 log ChatGPT
       ```
