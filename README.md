@@ -36,15 +36,17 @@
       sudo apt -y remove nodejs
       curl -fsSl https://deb.nodesource.com/setup_lts.x | sudo bash - && sudo apt -y install nodejs
       ```
+      
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=Install+yarn)](https://git.io/typing-svg)
 
-   3. Install yarn
       ```
       curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - 
       echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
       sudo apt -y update && sudo apt -y install yarn
       ```
 
-   4. Clone Repo and install required packages
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=Clone+Repo+and+install+required+packages)](https://git.io/typing-svg)
+
       ```
       // Replace this link to your forked repo link in terminal
       git clone https://github.com/I-am-ALPHA/ChatGPT
@@ -52,7 +54,7 @@
       sudo yarn install --network-concurrency 1
       ```
   
-   5.    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=Start+bot)](https://git.io/typing-svg)
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=Start+bot)](https://git.io/typing-svg)
 
       ```
       sudo yarn global add pm2 && pm2 start index.js --name ChatGPT && pm2 log ChatGPT
