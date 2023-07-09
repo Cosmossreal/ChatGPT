@@ -47,7 +47,7 @@
    4. Clone Repo and install required packages
       ```
       // Replace this link to your forked repo link in terminal
-      git clone https://github.com/I-am-ALPHA/ChatGPT
+      git clone https://github.com/mrhansamala/ChatGPT
       cd ChatGPT
       sudo yarn install --network-concurrency 1
       ```
