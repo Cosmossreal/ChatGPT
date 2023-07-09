@@ -9,7 +9,7 @@
 ```
 <div align="center">
 <h1><b>ChatGPT for WhatsApp</b></h1><br>
-<p align="center"><a href="https://github.com/I-am-ALPHA"><img title="Author" src="https://img.shields.io/badge/Author-MR Hansamala-red.svg?color=54aeff&style=for-the-badge&logo=github" /></p><br>
+<p align="center"><a href="https://github.com/mrhansamala"><img title="Author" src="https://img.shields.io/badge/Author-MR Hansamala-red.svg?color=ff0000&style=for-the-badge&logo=github" /></p><br>
      
 ![image](https://i.ibb.co/p2zTRLt/Picsart-23-07-09-06-04-37-009.png)
  <br>
