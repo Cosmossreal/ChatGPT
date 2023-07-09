@@ -21,7 +21,7 @@
 **⚠️ Note: Make sure to replace your OpenAI API key in key.json before Deploy**
 
 <a href="https://www.heroku.com/deploy/">
-<img src="https://www.herokucdn.com/deploy/button.png" />
+<img src="https://i.ibb.co/8Kv3qTS/Picsart-23-07-09-06-21-01-342.png" />
 </a>
 
 ## Deploy on VPS.
