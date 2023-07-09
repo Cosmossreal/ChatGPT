@@ -61,8 +61,8 @@
       ```
       
       ##
-      
-      If you are facing any problem, restart using this command
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=If+you+are+facing+any+problem,+restart+using+this+command)](https://git.io/typing-svg)
+
       ```
       pm2 restart ChatGPT
       ```
