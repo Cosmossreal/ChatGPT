@@ -9,9 +9,9 @@
 ```
 <div align="center">
 <h1><b>ChatGPT for WhatsApp</b></h1><br>
-<p align="center"><a href="https://github.com/I-am-ALPHA"><img title="Author" src="https://img.shields.io/badge/Author-A L P H A-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></p><br>
+<p align="center"><a href="https://github.com/I-am-ALPHA"><img title="Author" src="https://img.shields.io/badge/Author-MR Hansamala-red.svg?color=54aeff&style=for-the-badge&logo=github" /></p><br>
      
-![image](https://telegra.ph/file/40ece39d93249caba8b1f.jpg)
+![image](https://i.ibb.co/p2zTRLt/Picsart-23-07-09-06-04-37-009.png)
  <br>
 
 **A WhatsApp based 3ʳᵈ party OPEN-AI application that provide AI generated results with a real-time automated conversational experience. 👾**
