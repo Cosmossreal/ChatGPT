@@ -25,13 +25,13 @@
 </a>
 
 ## Deploy on VPS.
- You need to Install git,ffmpeg,curl,nodejs,yarn with pm2 
-   1. Install git ffmpeg curl 
+ You need to Install git,ffmpeg,curl,nodejs,yarn with
       ```
        sudo apt -y update &&  sudo apt -y upgrade 
        sudo apt -y install git ffmpeg curl
       ```
-   2. Install nodejs 
+     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=Install+nodejs)](https://git.io/typing-svg)
+
       ```
       sudo apt -y remove nodejs
       curl -fsSl https://deb.nodesource.com/setup_lts.x | sudo bash - && sudo apt -y install nodejs
